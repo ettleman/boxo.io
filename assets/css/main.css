@@ -198,7 +198,7 @@
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #e1e6e1;
-			background-image: url("../../images/overlay.png"), url("../../images/pine.jpg");
+			background-image: url("../../images/overlay.png"), url("../../images/smoke-bg1.jpg");
 			background-repeat: repeat, repeat-x;
 			background-size: 128px 128px, cover;
 		}
@@ -339,7 +339,7 @@
 			left: 0;
 			width: 3.5rem;
 			height: 0.1rem;
-			background-color: rgba(255, 255, 255, 0.25);
+			-color: rgba(255, 255, 255, 0.25);
 		}
 
 	h1 {
